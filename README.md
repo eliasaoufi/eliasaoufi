@@ -6,7 +6,7 @@ My background also features experience working as an **On-Site Event Tech Suppor
 
 I am skilled in various programming languages such as C, Java and Python.
 
-Be free to check my [Portfolio](https://ffgamesofficial.itch.io/) and [FF Games page](https://ffgamesofficial.itch.io/).
+Be free to check my [Portfolio](https://ffgamesofficial.itch.io/) and [FF Games page](https://ffgamesofficial.itch.io/)!
 <!--
 **eliasaoufi/eliasaoufi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
